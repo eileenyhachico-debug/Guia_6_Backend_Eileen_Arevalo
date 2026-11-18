@@ -1,0 +1,8 @@
+{
+  "name": "crud-aerolinea",
+  "version": "1.0.0",
+  "description": "CRUD de pilotos, aviones y asignaciones con arquitectura por capas",
+  "main": "src/app.js",
+  "scripts": { "start": "node src/app.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
